@@ -33,5 +33,5 @@ jobs:
           OWNER_NUMBER:
           SESSION_ID:
 
-      run: npm start
+      run: npm
       
